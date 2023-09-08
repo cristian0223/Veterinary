@@ -11,7 +11,7 @@ using Veterinary.API.Data;
 namespace Veterinary.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20230831214610_Inicial")]
+    [Migration("20230908193154_Inicial")]
     partial class Inicial
     {
         /// <inheritdoc />
